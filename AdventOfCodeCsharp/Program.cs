@@ -4,7 +4,7 @@ int validLines = 0;
 
 try
 {
-    string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\text.txt");
+    string filePath = Path.Combine("..\\..\\..\\text.txt");
     if (!File.Exists(filePath))
     {
         Console.WriteLine($"File not found: {filePath}");
