@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCodeCsharp", "AdventOfCodeCsharp\AdventOfCodeCsharp.csproj", "{A842FD25-E2D8-4543-A4D9-419734000D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCodeCsharp", "AdventOfCodeCsharp\AdventOfCodeCsharp.csproj", "{A842FD25-E2D8-4543-A4D9-419734000D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AocDay3", "AocDay3\AocDay3.csproj", "{B1CC3679-96F6-430E-A03A-FBF085C76B3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A842FD25-E2D8-4543-A4D9-419734000D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A842FD25-E2D8-4543-A4D9-419734000D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A842FD25-E2D8-4543-A4D9-419734000D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CC3679-96F6-430E-A03A-FBF085C76B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CC3679-96F6-430E-A03A-FBF085C76B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CC3679-96F6-430E-A03A-FBF085C76B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CC3679-96F6-430E-A03A-FBF085C76B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
