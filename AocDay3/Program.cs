@@ -1,5 +1,4 @@
 ﻿using AocDay3;
-
 var total = 0;
 
 try
